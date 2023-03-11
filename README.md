@@ -4,6 +4,7 @@
 
 [![NPM](https://img.shields.io/npm/v/react-watermark-ui.svg)](https://www.npmjs.com/package/react-watermark-ui) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
+
 ## Install
 
 ```bash
@@ -20,7 +21,7 @@ import 'react-watermark-ui/dist/index.css'
 
 class Example extends Component {
   render() {
-    return <MyComponent />
+    return <Watermark />
   }
 }
 ```
