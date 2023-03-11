@@ -37,7 +37,11 @@ class Example extends Component {
   }
 }
 ```
+## Contribute 
+Contributions are always welcome!
+Please read the [contribution guidelines](contributing.md) first.
 
+### ⭐ If you liked the component, please consider giving me a star. Thank you!
 ## License
 
 MIT © [Svetloslav15](https://github.com/Svetloslav15)
