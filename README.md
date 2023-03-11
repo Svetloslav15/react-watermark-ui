@@ -1,6 +1,8 @@
 # react-watermark-ui
+> ⚛️ Watermark component for React projects 
 
-[![NPM](https://img.shields.io/npm/v/react-watermark-ui.svg)](https://www.npmjs.com/package/react-watermark-ui) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![NPM](https://img.shields.io/npm/v/react-watermark-ui.svg)](https://www.npmjs.com/package/react-watermark-ui)
+[![NPM Downloads](https://img.shields.io/npm/dt/react-watermark-ui.svg)](https://www.npmjs.com/package/react-watermark-ui)
 ![Screenshot_2](https://user-images.githubusercontent.com/33124382/224512774-ed90be5b-c760-4e16-a171-04f20a2a6235.png)
 
 
