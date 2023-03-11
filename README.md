@@ -20,7 +20,18 @@ import 'react-watermark-ui/dist/index.css'
 
 class Example extends Component {
   render() {
-    return <Watermark />
+    return (
+    <div>
+      <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Consectetur ipsam repellendus rerum repudiandae voluptatem libero quam distinctio modi consequatur, esse nemo eaque mollitia doloremque? Optio alias repudiandae repellat dolorem praesentium?</p>
+      <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Consectetur ipsam repellendus rerum repudiandae voluptatem libero quam distinctio modi consequatur, esse nemo eaque mollitia doloremque? Optio alias repudiandae repellat dolorem praesentium?</p>
+      <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Consectetur ipsam repellendus rerum repudiandae voluptatem libero quam distinctio modi consequatur, esse nemo eaque mollitia doloremque? Optio alias repudiandae repellat dolorem praesentium?</p>
+      <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Consectetur ipsam repellendus rerum repudiandae voluptatem libero quam distinctio modi consequatur, esse nemo eaque mollitia doloremque? Optio alias repudiandae repellat dolorem praesentium?</p>
+      <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Consectetur ipsam repellendus rerum repudiandae voluptatem libero quam distinctio modi consequatur, esse nemo eaque mollitia doloremque? Optio alias repudiandae repellat dolorem praesentium?</p>
+      <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Consectetur ipsam repellendus rerum repudiandae voluptatem libero quam distinctio modi consequatur, esse nemo eaque mollitia doloremque? Optio alias repudiandae repellat dolorem praesentium?</p>
+      <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Consectetur ipsam repellendus rerum repudiandae voluptatem libero quam distinctio modi consequatur, esse nemo eaque mollitia doloremque? Optio alias repudiandae repellat dolorem praesentium?</p>
+      <Watermark />
+    </div>
+  )
   }
 }
 ```
